@@ -1,0 +1,14 @@
+/********** hoja de estilo de la receta de cocina ************/
+
+body {background-image: url(../Imagenes/fondo.jpg);font-family: 'Lato', sans-serif;}
+
+#container {width: 80%;background-color: white;margin: auto;padding: 2px;}
+
+#container h1 {text-align: center;}
+
+#container h2 {background-color: rgb(105, 105, 184);padding-left 10px;}
+
+#container dl dt {font-weight: bold;}
+
+#container iframe { display: block;
+                    margin: auto;}
